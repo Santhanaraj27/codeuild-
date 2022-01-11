@@ -1,5 +1,5 @@
 sudo apt-get update
-sudo apt-get -y install apache2
+sudo apt-get -y install nginx
 ls /var/www/html/
 sudo rm /var/www/html/index.html
 
