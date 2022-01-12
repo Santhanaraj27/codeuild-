@@ -1,2 +1,2 @@
-sudo install -y httpd
+sudo apt install -y nginx
 
